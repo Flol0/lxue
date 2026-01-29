@@ -3,10 +3,29 @@
     <title>Luxebraut</title>
     <link href="https://flol0.github.io/lxue/feed.xml" rel="self" />
     <link href="https://flol0.github.io/lxue" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-01-29T22:40:24+01:00</updated>
     <author>
         <name>Flo</name>
     </author>
     <id>https://flol0.github.io/lxue</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Flo</name>
+        </author>
+        <link href="https://flol0.github.io/lxue/test.html"/>
+        <id>https://flol0.github.io/lxue/test.html</id>
+
+        <updated>2026-01-29T22:40:24+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
