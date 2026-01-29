@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://flol0.github.io/lxue/sitemap.xml
